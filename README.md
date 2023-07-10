@@ -1,2 +1,2 @@
 # Sanskriti_website
-Welcome to the github
+Welcome to the Cultural Committee website
